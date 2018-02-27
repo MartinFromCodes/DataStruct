@@ -26,6 +26,8 @@ namespace DataStruct
                 Console.Write(Lc[i]+" ");
             }
             Console.Read();
+
+            Console.WriteLine("123123");
         }
 
         public static SeqList<int> Merge(SeqList<int> La,SeqList<int> Lb)
